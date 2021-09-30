@@ -8,7 +8,7 @@ intro = '''
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Big Picture applicative</title>
+    <title>Jury</title>
 </head>
 <body>
     <h1 style="text-align: center;">Page HTML</h1>
